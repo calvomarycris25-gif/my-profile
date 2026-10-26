@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.0">
-    <title>My Portfolio</title>
+    <title>ABOUT ME</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -15,7 +15,7 @@
        <header class="main-header">
   <div class="logo-container">
     <a href="/">
-      <img src="cover.png" alt="SELFIE" class="header-logo">
+      <img src="C:\Users\Dell\Downloads\MARY ARJANE WEBSITE\MARY ARJANE.png" alt="SELFIE" class="header-logo">
     </a>
   </div>
 </header>
@@ -27,13 +27,14 @@
             <p>I am a fourth year student dedicated to growing my expertise in marketing, brand communications, and creative design. Passionate about turning ideas into compelling visual assets and community-driven campaigns, I am looking to apply my skills and drive to real-world projects and internships.</p>
     
         </div>
+    </section>
 
     <!-- Projects Section -->
     <section id="projects" class="projects-section">
         <h2>My Project</h2>
        <section id="project-details">
     <p>FIRST PROJECT</p>
-     <img src="cover.png" alt="SELFIE width="1000">
+    <img src="main.jpg" alt="Screenshot of the main dashboard" width="1000">
 </section>
         <div class="projects-grid">
             <!-- Project Card 1 -->
@@ -48,6 +49,8 @@
             <p>AUG FIT is an AI-powered virtual try-on built for AUG DEPT. See how every piece looks and fits on your own body before you buy. Upload a photo, pick your size, and preview outfits in seconds, so you can shop with confidence, skip the guesswork, and cut down on returns.</p>
             </div>
             
+            
+    </section>
 
     <!-- Contact Section -->
     <section id="contact" class="contact-section">
