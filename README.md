@@ -35,7 +35,7 @@
        <section id="project-details">
     <p>FIRST PROJECT</p>
      <img src="main.jpg" alt="Screenshot of the main dashboard" width="1000">
-</section>
+     
         <div class="projects-grid">
             <!-- Project Card 1 -->
             <div class="project-card">
