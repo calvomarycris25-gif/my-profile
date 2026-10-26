@@ -27,7 +27,6 @@
             <p>I am a fourth year student dedicated to growing my expertise in marketing, brand communications, and creative design. Passionate about turning ideas into compelling visual assets and community-driven campaigns, I am looking to apply my skills and drive to real-world projects and internships.</p>
     
         </div>
-    </section>
 
     <!-- Projects Section -->
     <section id="projects" class="projects-section">
@@ -49,8 +48,6 @@
             <p>AUG FIT is an AI-powered virtual try-on built for AUG DEPT. See how every piece looks and fits on your own body before you buy. Upload a photo, pick your size, and preview outfits in seconds, so you can shop with confidence, skip the guesswork, and cut down on returns.</p>
             </div>
             
-            
-    </section>
 
     <!-- Contact Section -->
     <section id="contact" class="contact-section">
